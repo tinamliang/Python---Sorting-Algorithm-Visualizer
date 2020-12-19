@@ -4,7 +4,7 @@ After taking ICS4U, I became interested in sorting algorithms, so I created this
 
 ### What you'll need to run the program:
    
-   - Tkinter GUI
+   1. Tkinter GUI
 
 ### DEMO
 
