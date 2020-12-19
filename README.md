@@ -2,7 +2,7 @@
 
 After taking ICS4U, I became interested in sorting algorithms, so I created this project to help me in my understanding. This project was created using Python's Tkinter GUI.
 
-DEMO
+## DEMO
 
 Here is a clip of the program sorting a random set of numbers using insertion sort: 
 
@@ -16,7 +16,7 @@ Other sorts that are included in this project:
    - Quick Sort
    - Merge Sort (coming up!)
    
-HOW IT WORKS
+## HOW IT WORKS
 
 According to user inputted preferences such as the size of the array, and the min and max values, the program will randomize a set of values than display the steps a certain sorting algorithm takes to sort the array. If the user doesn't enter any values, there are defaulted values in place. 
 
